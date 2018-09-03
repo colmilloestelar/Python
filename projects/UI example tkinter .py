@@ -29,7 +29,7 @@ def score_down():
 #----main---- 
 
 root = tk.Tk()
-root.title("Counting Seconds and display text example")
+root.title("Counting numbers and display text example")
 
 #labels for show values
 label = tk.Label(root, fg="dark green")
